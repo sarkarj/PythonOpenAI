@@ -1,7 +1,7 @@
 # PythonOpenAI
-An example of utilizing OpenAI as a healthcare bot offering recommended benefits and supportive visuals
+An example of utilizing generative AI as a healthcare bot offering recommended benefits and supportive visuals
 
-Empower and elevate the healthcare experience with OpenAI as a personalized healthcare buddy and trusted companion by providing basic information, and in return, receive tailored benefits recommendations, uplifting visuals for encouragement, immediate access to credible resources such as helplines and cognitive behavioral therapy programs, and professional guidance on lifestyle modifications for optimal physical and mental health.
+Empower and elevate the healthcare experience with generative AI as a personalized healthcare buddy and trusted companion by providing basic information, and in return, receive tailored benefits recommendations, uplifting visuals for encouragement, immediate access to credible resources such as helplines and cognitive behavioral therapy programs, and professional guidance on lifestyle modifications for optimal physical and mental health.
 
 1. Makes tailored service recommendations by searching basic information about the healthcare subscriber
 2. Provides uplifting visuals to help motivate
